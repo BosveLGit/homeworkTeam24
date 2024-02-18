@@ -39,8 +39,6 @@ public class Main {
             System.out.println(nameCat + ": " + ColorCat);
         }
 
-
-
     }
 
 
