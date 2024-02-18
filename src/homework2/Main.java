@@ -1,6 +1,6 @@
 package homework2;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
 
         Phone phoneNokia = new Phone("077712345", "Nokia", 100);
